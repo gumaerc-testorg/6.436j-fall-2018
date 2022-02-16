@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-436j-fundamentals-of-probability-fall-2018/c1ab69cb198badcebee42d5880784439_MIT6_436JF18_rec3.pdf
+file: /media/courses/6-436j-fundamentals-of-probability-fall-2018/c1ab69cb198badcebee42d5880784439_MIT6_436JF18_rec3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitation Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 6.436J / 15.085J Fundamentals of Probability, Recitation 3
 uid: c1ab69cb-198b-adce-bee4-2d5880784439
