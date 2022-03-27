@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 411c04d5-733a-de7d-e434-57315f876d52
 resourcetype: Document
 title: 6.436J / 15.085J Fundamentals of Probability, Homework 8 Solutions
 uid: b5b6b679-8400-b436-2df5-88df52eddb64

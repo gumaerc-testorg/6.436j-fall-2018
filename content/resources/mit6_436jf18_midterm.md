@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 7230a611-b137-fd85-c17a-4b3ec3036bab
 resourcetype: Document
 title: 6.436J / 15.085J Fundamentals of Probability, Midterm
 uid: 47a79db3-da2d-529f-52d8-91870fa047e3

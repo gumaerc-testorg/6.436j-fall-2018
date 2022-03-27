@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitation Notes
 parent_type: CourseSection
+parent_uid: d4180a9a-b9ff-aebd-1845-d5c5b40554f0
 resourcetype: Document
 title: 6.436J / 15.085J Fundamentals of Probability, Recitation 7
 uid: 851e3de8-4ad8-97ed-7dc0-cc8605bbd3e2
