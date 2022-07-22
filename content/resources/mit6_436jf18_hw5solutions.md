@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-436j-fundamentals-of-probability-fall-2018/e8391d6f6d44af4a6613eaab773fc6a0_MIT6_436JF18_hw5solutions.pdf
+file: /courses/6-436j-fundamentals-of-probability-fall-2018/e8391d6f6d44af4a6613eaab773fc6a0_MIT6_436JF18_hw5solutions.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

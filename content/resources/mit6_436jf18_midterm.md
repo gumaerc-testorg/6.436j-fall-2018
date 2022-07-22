@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-436j-fundamentals-of-probability-fall-2018/47a79db3da2d529f52d891870fa047e3_MIT6_436JF18_midterm.pdf
+file: /courses/6-436j-fundamentals-of-probability-fall-2018/47a79db3da2d529f52d891870fa047e3_MIT6_436JF18_midterm.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

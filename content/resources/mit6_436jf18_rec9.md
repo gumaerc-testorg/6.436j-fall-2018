@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-436j-fundamentals-of-probability-fall-2018/854e0b5952766e93cada7ce9092580b6_MIT6_436JF18_rec9.pdf
+file: /courses/6-436j-fundamentals-of-probability-fall-2018/854e0b5952766e93cada7ce9092580b6_MIT6_436JF18_rec9.pdf
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitation Notes
 parent_type: CourseSection
