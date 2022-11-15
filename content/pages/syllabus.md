@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Syllabus for the course Fundamentals of Probability, including course
+  description, textbooks, and grading scheme.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
