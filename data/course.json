@@ -22,7 +22,7 @@
     "website": "6-436j-fundamentals-of-probability-fall-2018"
   },
   "course_title": "Fundamentals of Probability",
-  "course_description": "This is a course on the fundamentals of probability geared towards first or second-year graduate students who are interested in a rigorous development of the subject. The course covers sample space, random variables, expectations, transforms, Bernoulli and Poisson processes, finite Markov chains, and limit theorems. There is also a number of additional topics such as: language, terminology, and key results from measure theory; interchange of limits and expectations; multivariate Gaussian distributions; and deeper understanding of conditional distributions and expectations.\n",
+  "course_description": "This is a course on the fundamentals of probability geared towards first or second-year graduate students who are interested in a rigorous development of the subject. The course covers sample space, random variables, expectations, transforms, Bernoulli and Poisson processes, finite Markov chains, and limit theorems. There is also a number of additional topics such as: language, terminology, and key results from measure theory; interchange of limits and expectations; multivariate Gaussian distributions; and deeper understanding of conditional distributions and expectations.",
   "department_numbers": [
     "6",
     "15"
@@ -34,10 +34,11 @@
     "website": "6-436j-fundamentals-of-probability-fall-2018"
   },
   "learning_resource_types": [
-    "Problem Sets with Solutions",
     "Exams",
-    "Lecture Notes"
+    "Lecture Notes",
+    "Problem Sets"
   ],
-  "site_uid": "c580e495-f983-491d-9fce-a4de78adce6e",
+  "site_uid": "958756d8-5c7e-49d3-a6b0-9cdc19f6581a",
+  "site_short_id": "6.436j-fall-2018",
   "title": "Course Metadata"
 }

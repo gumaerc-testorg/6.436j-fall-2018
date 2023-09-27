@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'Calendar of lectures, recitations, and assignment due dates for the
+  course Fundamentals of Probability. '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
