@@ -17,7 +17,7 @@ You will only be responsible for the material contained in lecture notes and oth
 
 *   \[W\] D. Williams. _Probability with Martingales._ Cambridge University Press, 1991. ISBN: 9780521406055.
 
-*   \[BT\] D. P. Bertsekas and J. N. Tsitsiklis. _Introduction to Probability._ 2nd Ed., Athena Scientific, 2008. ISBN: 9781886529236. [Chapter 1](http://athenasc.com/probbook.html) is available online.
+*   \[BT\] D. P. Bertsekas and J. N. Tsitsiklis. _Introduction to Probability._ 2nd Ed., Athena Scientific, 2008. ISBN: 9781886529236. {{% resource_link "db1d8b8c-151b-478f-bd81-10c05ae40e79" "Chapter 1" %}} is available online.
 
 {{< tableopen >}}
 {{< theadopen >}}
