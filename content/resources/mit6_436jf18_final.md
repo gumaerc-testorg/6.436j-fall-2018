@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-436j-fundamentals-of-probability-fall-2018/9e99d0703449d65f8e6d9fe2648e6e0e_MIT6_436JF18_final.pdf
+file_size: 296290
 file_type: application/pdf
 learning_resource_types:
 - Exams

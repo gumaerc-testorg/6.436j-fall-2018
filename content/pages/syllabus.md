@@ -54,7 +54,7 @@ For a concise, crisp, and rigorous treatment of the theoretical topics to be cov
 The course syllabus is a proper superset of the 6.041/6.431 syllabus. For a more accessible coverage of that material:
 
 *   D. P. Bertsekas and J. N. Tsitsiklis. _Introduction to Probability._ 2nd Ed., Athena Scientific, 2008. ISBN: 9781886529236.  
-    {{% resource_link "db1d8b8c-151b-478f-bd81-10c05ae40e79" "Chapter 1" %}} is available online.
+    [Chapter 1](http://athenasc.com/probbook.html) is available online.
 
 ### Other references:
 
