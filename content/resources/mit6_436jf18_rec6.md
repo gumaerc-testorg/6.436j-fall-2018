@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-436j-fundamentals-of-probability-fall-2018/65dfa4c8e91a607f9ae67e66f0e8a5e4_MIT6_436JF18_rec6.pdf
+file_size: 442599
 file_type: application/pdf
 learning_resource_types:
 - Recitations
