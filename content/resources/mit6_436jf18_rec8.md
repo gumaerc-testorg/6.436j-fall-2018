@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-436j-fundamentals-of-probability-fall-2018/aaed7fd941c57958a12b8f57c366ac3d_MIT6_436JF18_rec8.pdf
+file: /ol-ocw-studio-app/courses/6-436j-fundamentals-of-probability-fall-2018/aaed7fd941c57958a12b8f57c366ac3d_MIT6_436JF18_rec8.pdf
 file_size: 428816
 file_type: application/pdf
 learning_resource_types:
